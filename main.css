@@ -1,5 +1,8 @@
-body {
+body {		
+		margin: 60px auto;
+		width: 70%
 		background: lightgray;
 		color: black;
 		font-size: x-large;
 }
+
