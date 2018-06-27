@@ -22,6 +22,6 @@ layout: feed
                   <content type="html">{{ post.content | xml_escape }}</content>
                   
           </entry>
- {% enfor %}
+ {% endfor %}
  
 </feed>
