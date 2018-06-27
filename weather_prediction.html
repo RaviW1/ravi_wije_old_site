@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title> Weather Prediction Algorithm</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href='/main.css'/>
+	<body>
+		<h1> Memphis weather prediction algorithm <h1/>
+		<p>
+		I have made a weather prediction algorithm that predicts the maximum temperature in Memphis<br>
+		I did this by following Brandon Rohrer's course End-to-end data science: Time-series prediction<br>
+		To predict the temprature I used the autocorrelation of one day's temprature to the next. Autocorrelation is when the data at a previous timesteps is useful for predicting at a future timestep.<br>
+		The data had an Autocorrelation of .9. The data was from 1960 to 2018. I got the data from www.ncdc.noaa.gov.<br>
+		I had to prepare the data by getting rid of missing values, seperating the data into maximum temprature and dates, and fixing some other minor bugs.<br>
+		In the end I achieved a Mean Absolute Error of 8.4. I'm planning to create a random forest model and turn it into an ios app using CoreML.<br>
+		</p>
+	</body>
+</html>
