@@ -20,10 +20,6 @@ A smaller version of one the decision trees.
 
 
 
-
-
-
-
 A comparison of my random forest model's predictions, my autocorrelation model's predictions, and the real temprature.
 
 ![config.yml]({{ site.baseurl }}/data_images/tempratures.png)
