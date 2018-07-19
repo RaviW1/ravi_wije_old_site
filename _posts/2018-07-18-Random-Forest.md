@@ -13,13 +13,13 @@ A random forest is a model that uses many of decision trees to make a prediction
 The random forest is a good choice because of the amount of data it uses to come to a conclusion. This means that it is fairly accurate.
 For tommorrow which is June 7th 2018 the model predicts a maximum temprature of 90 degrees fahrenheit.
 
-A smaller version of one the decision trees.
+__A smaller version of one the decision trees.__
 
 
 ![config.yml]({{ site.baseurl }}/data_images/small_treev2.png)
 
 
 
-A comparison of my random forest model's predictions, my autocorrelation model's predictions, and the real temprature.
+__A comparison of my random forest model's predictions, my autocorrelation model's predictions, and the real temprature.__
 
 ![config.yml]({{ site.baseurl }}/data_images/tempratures.png)
