@@ -12,7 +12,7 @@ The model requires the maximum temperature, precipitation, and minimum teperatur
 A random forest is a model that uses many decision trees to make a prediction.
 The random forest is a good choice because of the amount of data it uses to come to a conclusion. This means that it is fairly accurate.
 For tomorrow, which is June 19th 2018, the model predicts a maximum temperature of 90 degrees Fahrenheit.
-My goal in the future is to convert this into an ios app.
+My goal in the future is to convert this into an ios app using CoreML.
 [The code for the random forest model](https://raviw1.github.io/code/Weather_RFv2).
 
 __A smaller version of one the decision trees.__
