@@ -24,4 +24,5 @@ __A comparison of my random forest model's predictions, my autocorrelation model
 
 ![config.yml]({{ site.baseurl }}/data_images/temperatures.png)
 
+As shown in the graph the random forest model is much closer than the autocorrelation model which is predicting temperatures lower than the actual temperatures.
 
