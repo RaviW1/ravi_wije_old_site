@@ -25,3 +25,6 @@ A plot of the maximum tempratures
 
 This plot show the maximum tempratures from 1960 to 2018
 
+My goal is to make an weather forecasting device as good as this:
+
+![config.yml]({{ site.baseurl }}/images/weather_rock.jpg)
