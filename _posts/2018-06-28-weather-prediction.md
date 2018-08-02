@@ -14,14 +14,14 @@ For the date of June 29, 2018 the algorithm predicts a temprature of 90.01 degre
 
 Scatter plot of the autocorrelation
 
-![config.yml]({{ site.baseurl }}/data_images/autocorrellation.png)
+![config.yml]({{ site.baseurl }}/images/autocorrelation2.png)
 
 The scatter plot shows that we have a high autocorrelation from the day before to the next.
 
 
 A plot of the maximum tempratures
 
-![config.yml]({{ site.baseurl }}/data_images/max_temp.png)
+![config.yml]({{ site.baseurl }}/images/max_temps2.png)
 
 This plot show the maximum tempratures from 1960 to 2018
 
