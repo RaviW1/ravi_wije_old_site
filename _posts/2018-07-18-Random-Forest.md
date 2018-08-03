@@ -22,7 +22,7 @@ __A smaller version of one the decision trees.__
 
 
 
-__A comparison of my random forest model's predictions, my autocorrelation model's predictions, and the real temprature.__
+__A comparison of my random forest model's predictions, my autocorrelation model's predictions, and the real temperature.__
 
 ![config.yml]({{ site.baseurl }}/data_images/temperatures.png)
 
