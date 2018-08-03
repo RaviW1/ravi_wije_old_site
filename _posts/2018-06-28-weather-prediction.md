@@ -19,11 +19,11 @@ Scatter plot of the autocorrelation
 The scatter plot shows that we have a high autocorrelation from the day before to the next.
 
 
-A plot of the maximum tempratures
+A plot of the maximum temperatures
 
 ![config.yml]({{ site.baseurl }}/images/max_temps2.png)
 
-This plot show the maximum tempratures from 1960 to 2018
+This plot show the maximum temperatures from 1960 to 2018
 
 My goal is to make an weather forecasting device as accurate as this one!
 
