@@ -5,6 +5,7 @@ date: '2020-01-20'
 slug: website-update
 categories: []
 tags: []
+disable_comments: true
 ---
 
 It's been a while since I've updated the blog and this year I'm going to better about updating it.
