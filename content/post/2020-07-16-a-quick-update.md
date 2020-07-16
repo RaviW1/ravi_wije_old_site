@@ -1,0 +1,18 @@
+---
+title: A Quick Update
+author: Ravi Wijeratne
+date: '2020-07-16'
+slug: a-quick-update
+categories: []
+tags: []
+disable_comments: true
+---
+
+I have not been good about updating my blog. This year I want to try to be better at this.
+Throughout the year, I have been taking on small projects. During the school year, I attempted to complete two courses. These courses were by Brandon Rohrer, whose courses you can find [here](https://end-to-end-machine-learning.teachable.com/). The first one was a decision tree which predicted arrival times of the subway in Boston.
+### An early version of the decision tree
+![decision_tree_image](/post/2020-07-16-a-quick-update_files/decision_tree.png)
+I achieved very good results in the end with a pretty accurate model.
+The second course I took was a polynomial classifier that, when given the name of a dog breed, gives similarly sized dog breeds.
+### A visualization of the classifier
+![Dog_Breed_Model](/post/2020-07-16-a-quick-update_files/mass_height_dog_breeds_with_quartic_model.png)
