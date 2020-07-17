@@ -5,7 +5,7 @@ date: "2018-08-24"
 
 
 <div>
-    <img style="float: left; margin:0px 20px" src="/./images/logo.png" width="220" height="312" />
+    <img style="float: left; margin:0px 20px" src="/./images/brain_logo.png" width="480" height="480" />
     <h2 class="no_margin"><font style="font-size:5vw" color="#4B0082">Welcome!</font></h2> My name is Ravi and this is my website</p>
 </div>
 
